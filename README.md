@@ -19,10 +19,13 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 
 ### Skills and Technologies
 
-- 💻 PHP / Laravel / Python
-- 🗄️ SQL / MySQL / Redis
-- 🐳 Docker / Kubernetes
-- 📚 Other: Git, RESTful APIs
+- 💻 PHP / Python / Go
+- 🖼️ Framework: Codeigniter / Laravel / Flask / Gin
+- 🗄️ SQL / MySQL / MongoDB / Redis
+- 🐳 Docker / Kubernetes / Kustomize
+- 📚 VSC: Git
+- 🔄 CICD: GitLab CI / Jenkins
+- 🏭 Infrasturcture: Prometheus / Loki / Grafana
 
 ## 📈 Contributions and Activity
 
