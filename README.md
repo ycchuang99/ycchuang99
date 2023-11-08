@@ -23,7 +23,7 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 - 🖼️ Framework: Codeigniter / Laravel / Flask / Gin
 - 🗄️ SQL / MySQL / MongoDB / Redis
 - 🐳 Docker / Kubernetes / Kustomize
-- 📚 VSC: Git
+- 📚 VCS: Git
 - 🔄 CICD: GitLab CI / Jenkins
 - 🏭 Infrasturcture: Prometheus / Loki / Grafana
 
