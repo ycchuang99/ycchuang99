@@ -7,8 +7,8 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 
 ## ✈️ Something about me
 
-- 👨‍💻 I have about 2 years of professional experience in software development.
 - 🎓 I hold a Bachelor's degree in Computer Science.
+- 👨‍💻 I have about 2 years of professional experience in software development.
 - 💼 Currently, I work as a software engineer, where I contribute to the development of robust and user-friendly web applications.
 - 🌱 I'm always eager to learn and stay up-to-date with the latest technologies and trends in the software industry.
 
