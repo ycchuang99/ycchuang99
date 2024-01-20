@@ -25,6 +25,7 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 - 📚 VCS: Git / GitHub / GitLab
 - 🔄 CICD: GitLab CI / Jenkins / argoCD
 - 📊 Monitoring: Prometheus / Loki / Grafana / Promtail / OpenTelemetry
+- 📦 Other: K6
 
 ## 📈 Contributions and Activity
 
