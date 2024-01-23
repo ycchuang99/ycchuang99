@@ -22,9 +22,9 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 - 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask / Gin
 - 🗄️ MySQL / MongoDB / Redis
 - 🐳 Docker / Kubernetes / Kustomize
-- 📚 VCS: Git / GitHub / GitLab
-- 🔄 CICD: GitLab CI / Jenkins / argoCD
-- 📊 Monitoring: Prometheus / Loki / Grafana / Promtail / OpenTelemetry
+- 📚 VCS: Git / GitHub / GitLab / githooks
+- 🔄 CI/CD: GitLab CI / Jenkins / argoCD
+- 📊 Monitoring: Prometheus / Loki / Grafana / Promtail / OpenTelemetry / Jaeger
 - 📦 Other: K6
 
 ## 📈 Contributions and Activity
