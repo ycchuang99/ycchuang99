@@ -18,14 +18,15 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 
 ### Skills and Technologies
 
-- 💻 PHP / Python / Golang / Java
+- 💻 Language: PHP / Python / Golang / Java
 - 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask / Gin
-- 🗄️ MySQL / MongoDB / Redis
-- 🐳 Docker / Kubernetes / Kustomize
+- 🗄️ Database: MySQL / MongoDB / Redis
+- 🐳 Container: Docker / Kubernetes / Kustomize
 - 📚 VCS: Git / GitHub / GitLab / githooks
 - 🔄 CI/CD: GitLab CI / Jenkins / argoCD
 - 📊 Monitoring: Prometheus / Loki / Grafana / Promtail / OpenTelemetry / Jaeger
-- 📦 Other: K6 / Ansiable
+- 📦 Other: K6 / Ansiable / Keycloak
+- 🐧 Operating System: Windows / Linux
 
 ## 📈 Contributions and Activity
 
