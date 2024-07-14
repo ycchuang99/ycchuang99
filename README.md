@@ -18,8 +18,8 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 
 ### Skills and Technologies
 
-- 💻 Language: PHP / Python / Golang / Java
-- 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask / Gin
+- 💻 Language: PHP / Python / Java
+- 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask
 - 🗄️ Database: MySQL / MongoDB / Redis
 - 🐳 Container: Docker / Kubernetes / Kustomize
 - 📚 VCS: Git / GitHub / GitLab / githooks
