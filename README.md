@@ -8,7 +8,7 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 ## ✈️ Something about me
 
 - 🎓 I hold a Bachelor's degree in Computer Science.
-- 👨‍💻 I have about 2 years of professional experience in software development.
+- 👨‍💻 I have about 3 years of professional experience in software development.
 - 💼 Currently, I work as a software engineer, where I contribute to the development of robust and user-friendly web applications.
 - 🌱 I'm always eager to learn and stay up-to-date with the latest technologies and trends in the software industry.
 
@@ -25,7 +25,7 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 - 📚 VCS: Git / GitHub / GitLab / githooks
 - 🔄 CI/CD: GitLab CI / Jenkins / argoCD
 - 📊 Monitoring: Prometheus / Loki / Grafana / Promtail / OpenTelemetry / Jaeger
-- 📦 Other: K6 / Ansiable / Keycloak
+- 📦 Other: K6 / Keycloak
 - 🐧 Operating System: Windows / Linux
 
 ## 📈 Contributions and Activity
