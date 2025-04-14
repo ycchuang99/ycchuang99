@@ -1,16 +1,15 @@
 # Hi there 👋
 
-I'm Evan, a passionate software engineer with a strong focus on web development and building scalable applications.
-I thrive on creating elegant solutions to complex problems and enjoy working in collaborative environments.
+I'm Evan — a passionate software engineer specializing in web development and scalable application design. I love crafting clean, efficient solutions to complex challenges and thrive in collaborative, fast-paced environments.
 
 <hr>
 
 ## ✈️ Something about me
 
-- 🎓 I hold a Bachelor's degree in Computer Science.
-- 👨‍💻 I have about 3 years of professional experience in software development.
-- 💼 Currently, I work as a software engineer, where I contribute to the development of robust and user-friendly web applications.
-- 🌱 I'm always eager to learn and stay up-to-date with the latest technologies and trends in the software industry.
+- 🎓 Bachelor’s degree in Computer Science.
+- 👨‍💻 Around 3 years of hands-on experience in software development.
+- 💼 Currently building robust, user-friendly web applications as a software engineer.
+- 🌱 Lifelong learner, always exploring new tools, frameworks, and industry trends.
 
 ## 📊 GitHub Stats
 
@@ -18,7 +17,7 @@ I thrive on creating elegant solutions to complex problems and enjoy working in 
 
 ### Skills and Technologies
 
-- 💻 Language: PHP / Python / Java
+- 💻 Language: PHP / Python
 - 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask
 - 🗄️ Database: MySQL / MongoDB / Redis
 - 🐳 Container: Docker / Kubernetes / Kustomize
