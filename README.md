@@ -15,7 +15,7 @@ I'm Evan — a passionate software engineer specializing in web development and 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ycchuang99&show_icons=true&theme=radical)
 
-### Skills and Technologies
+### 🎯 Skills and Technologies
 
 - 💻 Language: PHP / Python
 - 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask
