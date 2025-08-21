@@ -7,9 +7,9 @@ I'm Evan — a passionate software engineer specializing in web development and 
 ## ✈️ Something about me
 
 - 🎓 Bachelor’s degree in Computer Science.
-- 💻 Around 3 years of hands-on experience in software development.
-- 💼 Currently building robust, user-friendly web applications as a software engineer.
-- 🌱 Lifelong learner, always exploring new tools, frameworks, and industry trends.
+- 💻 Three years of experience in software development.
+- 💼 Currently developing robust and user-friendly web applications as a Backend Developer.
+- 🌱 Passionate about exploring emerging technologies and staying current with industry trends.
 
 ## 📊 GitHub Stats
 
