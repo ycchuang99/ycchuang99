@@ -21,10 +21,10 @@ I'm Evan — a passionate software engineer specializing in web development and 
 - 🖼️ Framework: Codeigniter / Laravel / Lumen / Flask
 - 🗄️ Database: MySQL / MongoDB / Redis
 - 🐳 Container: Docker / Kubernetes / Kustomize
-- 📚 VCS: Git / GitHub / GitLab / githooks
+- 📚 VCS: Git
 - 🔄 CI/CD: GitLab CI / Jenkins / argoCD
-- 📊 Monitoring: Prometheus / Loki / Grafana / Promtail / OpenTelemetry / Jaeger
-- 📦 Other: K6 / Keycloak
+- 📊 Monitoring: Prometheus / Loki / Grafana / OpenTelemetry
+- 📦 Other: K6
 - 🐧 Operating System: Windows / Linux
 
 ## 📈 Contributions and Activity
