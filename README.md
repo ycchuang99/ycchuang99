@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=230&section=header&text=EVAN&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20PHP%20%2B%20Python&descAlignY=60&descSize=20" alt="Evan — Backend Developer, PHP and Python" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=230&section=header&text=EVAN&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=20" alt="Evan — Backend Developer" />
 </p>
 
 <p align="center">
